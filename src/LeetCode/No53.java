@@ -2,6 +2,8 @@ package LeetCode;
 
 import java.util.Stack;
 
+//[-2147483647]
+
 public class No53 {
     public int maxSubArray_0(int[] nums) {
         int startIndex = 0, endIndex = nums.length -1;
@@ -37,14 +39,16 @@ public class No53 {
     }
 
     public int maxSubArray(int[] nums) {
-        int globalMaxSum = -1;
-        for (int num: nums)
-            globalMaxSum = (globalMaxSum + num > 0) ? (globalMaxSum + num) : num;
+        int globalMaxSum = Integer.MIN_VALUE, currentMaxSum = Integer.MIN_VALUE;
+        for (int num: nums) {
+            currentMaxSum = (currentMaxSum > 0) ? (currentMaxSum + num) : num;
+            globalMaxSum = currentMaxSum > globalMaxSum ? currentMaxSum : globalMaxSum;
+        }
         return globalMaxSum;
     }
 
     public static void main(String[] args) {
-        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
+        int[] nums = {-2147483647};
         No53 solution = new No53();
         System.out.println(solution.maxSubArray(nums));
     }
