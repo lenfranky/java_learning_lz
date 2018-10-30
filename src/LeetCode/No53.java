@@ -27,13 +27,20 @@ public class No53 {
         return 0;
     }
 
-    public int maxSubArray(int[] nums) {
+    public int maxSubArray_old(int[] nums) {
         int maxSoFar=nums[0], maxEndingHere=nums[0];
         for (int i=1;i<nums.length;++i){
             maxEndingHere= Math.max(maxEndingHere+nums[i],nums[i]);
             maxSoFar=Math.max(maxSoFar, maxEndingHere);
         }
         return maxSoFar;
+    }
+
+    public int maxSubArray(int[] nums) {
+        int globalMaxSum = -1;
+        for (int num: nums)
+            globalMaxSum = (globalMaxSum + num > 0) ? (globalMaxSum + num) : num;
+        return globalMaxSum;
     }
 
     public static void main(String[] args) {
