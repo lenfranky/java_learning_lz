@@ -15,18 +15,23 @@ public class No54 {
             for (int i = rowStart; i <= rowEnd; i ++)
                 res.add(matrix[i][colEnd]);
             colEnd --;
-            for (int i = colEnd; i >= colStart; i --)
-                res.add(matrix[rowEnd][i]);
-            rowEnd --;
-            for (int i = rowEnd; i >= rowStart; i --)
-                res.add(matrix[i][colStart]);
-            colStart ++;
+            if (rowStart <= rowEnd) {
+                for (int i = colEnd; i >= colStart; i--)
+                    res.add(matrix[rowEnd][i]);
+                rowEnd--;
+            }
+            if (colStart <= colEnd) {
+                for (int i = rowEnd; i >= rowStart; i--)
+                    res.add(matrix[i][colStart]);
+                colStart++;
+            }
         }
         return res;
     }
 
     public static void main(String[] args) {
         int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-        System.out.println(new No54().spiralOrder(matrix));
+        int[][] matrixTwo = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};
+        System.out.println(new No54().spiralOrder(matrixTwo));
     }
 }
