@@ -25,5 +25,7 @@ public class StringTry {
             char ch = s.charAt(0);
             System.out.println("The character entered is " + ch);
         }
+
+        System.out.println();
     }
 }
