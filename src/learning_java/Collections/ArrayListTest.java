@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /*
-    Test several ways to traversal a List.
+    Test1 several ways to traversal a List.
  */
 public class ArrayListTest {
     public static void main(String[] args) {
