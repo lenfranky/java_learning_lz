@@ -1,21 +1,13 @@
 package learning_java.sortTry;
 
-import java.util.Comparator;
+import java.util.Arrays;
 
 public class CircleComparable
+        extends Circle
         implements Comparable<CircleComparable> {
-    private double radius;
-
-    public CircleComparable() {
-        this.radius = 0;
-    }
 
     public CircleComparable(double radius) {
-        this.radius = radius;
-    }
-
-    public double getArea() {
-        return Math.PI * radius * radius;
+        super(radius);
     }
 
     public int compareTo(CircleComparable circleToCom) {
@@ -28,7 +20,17 @@ public class CircleComparable
     }
 
     public static void main(String[] args) {
-        Circle circle = new Circle();
-        System.out.println(circle.getArea());
+        CircleComparable c = new CircleComparable(1);
+        System.out.println("c instanceof CircleComparable:\t" + (c instanceof CircleComparable));
+        System.out.println("c instanceof Circle:\t" + (c instanceof Circle));
+        System.out.println("c instanceof Comparable:\t" + (c instanceof Comparable));
+        System.out.println("c instanceof Object:\t" + (c instanceof Object));
+        Circle[] circles = new CircleComparable[] {new CircleComparable(4), new CircleComparable(3), new CircleComparable(5)};
+        for (Circle circle: circles)
+            System.out.print(circle.getArea() + " ");
+        System.out.println();
+        Arrays.sort(circles);
+        for (Circle circle: circles)
+            System.out.print(circle.getArea() + " ");
     }
 }

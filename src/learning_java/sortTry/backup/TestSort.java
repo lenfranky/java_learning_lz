@@ -1,31 +1,14 @@
-package learning_java.sortTry;
+package learning_java.sortTry.backup;
 
 //import java.util.Arrays;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class TestSort {
     public static void main(String[] args) {
-        CircleSortWithInner();
-    }
-
-    public static void CircleSortWithInner() {
-        Circle circle1 = new Circle(3);
-        Circle circle2 = new Circle(1);
-        Circle circle3 = new Circle(4);
-        Circle circle4 = new Circle(2);
-        Circle[] circles = {circle1, circle2, circle3, circle4};
-        for (Circle circle: circles) circle.getName();
-        Arrays.sort(circles, new Comparator<Circle>() {
-            @Override
-            public int compare(Circle o1, Circle o2) {
-                if(o1.getArea() > o2.getArea()) return 1;
-                else if(o1.getArea() < o2.getArea()) return -1;
-                else return 0;
-            }
-        });
-        System.out.println();
-        for (Circle circle: circles) circle.getName();
+        compareToTest();
     }
 
     public static void compareToTest() {

@@ -1,4 +1,4 @@
-package learning_java.sortTry;
+package learning_java.sortTry.backup;
 
 import java.util.Arrays;
 
@@ -10,8 +10,6 @@ public class Circle {
     public Circle(double radius) { this.radius = radius;}
 
     public double getArea() { return Math.PI * radius * radius; }
-
-    public void getName() {System.out.print("  Circle:" + this.radius);}
 
     public static void main(String[] args) {
 //        Circle circle = new Circle();
