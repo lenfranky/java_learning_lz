@@ -1,6 +1,6 @@
 package LeetCode;
 
-import learning_java.ConstructTree;
+import learning_java.GrammarTest.ConstructTree;
 
 // 阅读题目之后，可以发现，这个题的要求其实是，需要每个点都进行一次操作：将左儿子放到右儿子的位置上，并再将右儿子放在左儿子的最后
 // 因此可以用深度优先遍历，遍历一次整棵树

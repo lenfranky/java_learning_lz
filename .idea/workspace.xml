@@ -31,100 +31,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CircleComparable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/CircleComparable.java">
+      <file leaf-file-name="No11.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/No11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="48" />
+            <state relative-caret-position="325">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircleComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/CircleComparator.java">
+      <file leaf-file-name="No46.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/No46.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="750">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructTreeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/ConstructTreeTest.java">
+      <file leaf-file-name="SimpleJDBC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/SimpleJDBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/Demo.java">
+      <file leaf-file-name="LinkToMySql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/LinkToMySql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="450">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/TestSort.java">
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="4875">
+              <caret line="262" column="40" selection-start-line="262" selection-start-column="40" selection-end-line="262" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/Circle.java">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="123650">
+              <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34375">
-              <caret line="1430" column="4" selection-start-line="1430" selection-start-column="4" selection-end-line="1439" selection-end-column="5" />
+            <state relative-caret-position="3750">
+              <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="149" column="4" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#compare#0;class#Comparator#0" />
-                <element signature="docComment;method#equals#0;class#Comparator#0" />
-                <element signature="docComment;method#reversed#0;class#Comparator#0" />
-                <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructTreeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/ConstructTreeTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/Circle.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -138,36 +105,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>*</find>
+      <find>(List&lt;Inte</find>
+      <find>fillInStackTrace</find>
+      <find>fillInStackTrace(int</find>
+      <find>demo</find>
+      <find>p</find>
+      <find>Condition</find>
+      <find>.write(</find>
+      <find>\t</find>
+      <find>sleep</find>
+      <find>yield</find>
+      <find>yield()</find>
+      <find>run()</find>
+      <find>public void run()</find>
+      <find>.start()</find>
+      <find>currentThread</find>
+      <find>.min</find>
+      <find>TreeNode root =</find>
+      <find>public HashSet(</find>
+      <find>asList</find>
+      <find>asList(</find>
+      <find>&lt;</find>
+      <find>available()</find>
+      <find>Constru</find>
+      <find>root</find>
+      <find>LenFranky</find>
       <find>print</find>
-      <find>'x'</find>
-      <find>sqrt</find>
-      <find>char</find>
-      <find>PizzaStore2</find>
-      <find>deque</find>
-      <find>poll</find>
-      <find>mil</find>
-      <find>push(i)</find>
-      <find>&lt;TreeNode&gt;</find>
-      <find>(new TreeNode(i))</find>
-      <find>offer</find>
-      <find>queue.peek()</find>
-      <find>root.val</find>
-      <find>linked</find>
-      <find>ArrayList</find>
-      <find>remove</find>
-      <find>getNa</find>
-      <find>static</find>
-      <find>public void set</find>
-      <find>public void add</find>
-      <find>size</find>
-      <find>final</find>
-      <find>vegetable</find>
-      <find>peekLa</find>
-      <find>TreeNode</find>
-      <find>comparator</find>
-      <find>compara</find>
-      <find>void sort</find>
+      <find>nums1.length</find>
+      <find>nums2.length</find>
+      <find>p.equals(&quot;&quot;)</find>
+      <find>permute</find>
     </findStrings>
     <replaceStrings>
       <replace>-1</replace>
@@ -180,7 +147,15 @@
       <replace>cur</replace>
       <replace>currentSum</replace>
       <replace>LinkedList</replace>
+      <replace>length1</replace>
+      <replace>length2</replace>
+      <replace>s &gt;= s.length()</replace>
+      <replace>sp &gt;= s.length()</replace>
+      <replace>pp &gt;= p.length()</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\LenFranky\OneDrive\codes\jars\mongodb-driver-3.9.1.jar</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Users\32779\AppData\Local\GitHubDesktop\app-1.4.3\resources\app\git\mingw64\bin\git.exe" />
@@ -190,57 +165,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/learning_java/blog/DequeAndStackTest.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/QueueTest.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No103.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No105.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No110.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No111.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No112.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/IfTest.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/constructTree.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No113.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/ArrayListLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/no115.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No115.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/PizzaStore5.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/PizzaStore6.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/Test.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/Test1.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/VegetablePizza.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No101.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No118.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No119.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No120.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No121.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/InnerClassTest/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/ConstructTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No122.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No123.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/book/OutPutTest.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/book/ReferenceCountingGC.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No124.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No129.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No199.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No114.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/TreeLinkNode.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/ConstructTree.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No116.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No136.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No94.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/No84.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/SecondTime/No42.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/book/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/book/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/book/sort/test.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/Person.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/backup/Circle.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/CircleComparable.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/CircleSortWithInner.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/Circle.java" />
-        <option value="$PROJECT_DIR$/src/learning_java/sortTry/TestSort.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter21/EvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter21/SynchronizedEvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter21/MutexEvenGenerator.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter21/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No322.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No437.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No416.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/ArrayAsListTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No438.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter5/Cup.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter5/Cups.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter5/ExplicitsStatic.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/UnderstandingTheJVM/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/UnderstandingTheJVM/Chapter7/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/UnderstandingTheJVM/Chapter7/NotInitialization.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/UnderstandingTheJVM/Chapter7/ClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No448.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No337.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/No338.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Show.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No338.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No347.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No394.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No406.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No461.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer/Q07_QueueWithTwoStacks.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/ShiftTest.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer/Q12_Print1ToN.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/UnsignedIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/YJJ/offer6.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/GetPropertyTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/MinustTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter3/ShortCircuit.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter3/Literals.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No572.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No560.java" />
+        <option value="$PROJECT_DIR$/src/NowCoder/AbstractClassTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No621.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No4.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No32.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Old/No10.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Tools.java" />
+        <option value="$PROJECT_DIR$/src/Tools/IOTools.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No10.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No287.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/ArrayStringTest.java" />
+        <option value="$PROJECT_DIR$/src/learning_java/GrammarTest/ArrayStringTest.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No11.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/No46.java" />
       </list>
     </option>
   </component>
@@ -253,11 +228,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1382" />
-    <option name="y" value="-8" />
-    <option name="width" value="980" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="714" />
+    <option name="y" value="-9" />
+    <option name="width" value="974" />
+    <option name="height" value="906" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -276,11 +251,6 @@
             <path>
               <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,38 +261,7 @@
             </path>
             <path>
               <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning_java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning_java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning_java" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassType" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learning_java" type="462c0819:PsiDirectoryNode" />
-              <item name="sortTry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning_lz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning_lz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -332,24 +271,31 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/LenFranky/OneDrive/codes/java_learning_lz/src/learning_java/DataBase/LinkToMongoDB.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550502336686" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="learning_java.blog" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LenFranky\OneDrive\codes\java_learning_lz\src\learning_java\sortTry\backup" />
       <recent name="C:\codes\java_learning_lz\src\learning_java" />
       <recent name="C:\codes\java_learning_lz\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LeetCode.Old" />
+      <recent name="LeetCode" />
+      <recent name="learning_java.blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LenFranky\OneDrive\codes\java_learning_lz\src\learning_java\YJJ" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,36 +310,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSort">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning_java.sortTry.Circle" />
+  <component name="RunManager" selected="Application.No46">
+    <configuration name="ArrayStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning_java.GrammarTest.ArrayStringTest" />
       <module name="java_learning_lz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning_java.sortTry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="CircleComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning_java.sortTry.CircleComparable" />
-      <module name="java_learning_lz" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learning_java.sortTry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning_java.sortTry.Demo" />
-      <module name="java_learning_lz" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learning_java.sortTry.*" />
+          <option name="PATTERN" value="learning_java.GrammarTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,30 +328,55 @@
       <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning_java.sortTry.TestSort" />
+    <configuration name="No10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.No10" />
       <module name="java_learning_lz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning_java.sortTry.*" />
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.No11" />
+      <module name="java_learning_lz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="No32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.No32" />
+      <module name="java_learning_lz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="No46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.No46" />
+      <module name="java_learning_lz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning_java.book.sort.test" />
-      <module name="java_learning_lz" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learning_java.book.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -436,7 +385,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -444,6 +393,9 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -454,7 +406,7 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
@@ -466,22 +418,25 @@
       <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.GCTest" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.TestSort" />
-      <item itemvalue="Application.Circle" />
-      <item itemvalue="Application.CircleComparable" />
+      <item itemvalue="Application.No32" />
+      <item itemvalue="Application.No10" />
+      <item itemvalue="Application.ArrayStringTest" />
+      <item itemvalue="Application.No11" />
+      <item itemvalue="Application.No46" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSort" />
-        <item itemvalue="Application.CircleComparable" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.No46" />
+        <item itemvalue="Application.No11" />
+        <item itemvalue="Application.ArrayStringTest" />
+        <item itemvalue="Application.No10" />
+        <item itemvalue="Application.No32" />
       </list>
     </recent_temporary>
   </component>
@@ -512,7 +467,30 @@
       <workItem from="1542534650893" duration="64261000" />
       <workItem from="1542938034986" duration="19404000" />
       <workItem from="1543194421063" duration="50715000" />
-      <workItem from="1543799086697" duration="1835000" />
+      <workItem from="1543799086697" duration="31477000" />
+      <workItem from="1544231421285" duration="1545000" />
+      <workItem from="1544341678118" duration="10952000" />
+      <workItem from="1544666338673" duration="6924000" />
+      <workItem from="1544757009546" duration="7282000" />
+      <workItem from="1545009120151" duration="13785000" />
+      <workItem from="1545301925181" duration="1726000" />
+      <workItem from="1545377380479" duration="10547000" />
+      <workItem from="1546326245440" duration="4435000" />
+      <workItem from="1546391262748" duration="26551000" />
+      <workItem from="1546763414164" duration="3980000" />
+      <workItem from="1546869420939" duration="228000" />
+      <workItem from="1546915435750" duration="4963000" />
+      <workItem from="1547128134067" duration="41623000" />
+      <workItem from="1547554951130" duration="7516000" />
+      <workItem from="1548041022436" duration="10709000" />
+      <workItem from="1548070743365" duration="24363000" />
+      <workItem from="1550452405348" duration="596000" />
+      <workItem from="1550501259346" duration="1012000" />
+      <workItem from="1550568687742" duration="33556000" />
+      <workItem from="1551058074583" duration="33202000" />
+      <workItem from="1551179846394" duration="2192000" />
+      <workItem from="1551664964668" duration="6438000" />
+      <workItem from="1551870637641" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="add new method">
       <created>1540899927707</created>
@@ -532,42 +510,76 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219780000" />
+    <option name="totallyTimeSpent" value="505055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1608" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.38125" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50065106" side_tool="true" weight="0.32872927" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32872927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.3275" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.3287234" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.32553193" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32872927" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.245625" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.209375" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43085107" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3675" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.16471355" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.38085106" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.16471355" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.3319149" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.16471355" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.3287234" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.38085106" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32872927" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16458334" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43085107" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -675,360 +687,361 @@
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/No148.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/No148.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/No206.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/learning_java/GrammarTest/StringTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="77" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No121.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/InnerClassTest/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/InnerClassTest/PizzaStore1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/InnerClassTest/VegetablePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/InnerClassTest/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" selection-start-line="48" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No122.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/Collections/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/Collections/GenericsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/book/OutPutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No123.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/book/ReferenceCountingGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No124.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="100" column="57" lean-forward="true" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No129.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="332" column="6" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="744" column="19" selection-start-line="744" selection-start-column="13" selection-end-line="744" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No199.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No114.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/ConstructTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No116.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No136.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No44.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No94.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No101.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No84.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/ConstructTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="50">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer/Q07_QueueWithTwoStacks.java" />
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        <state relative-caret-position="550">
+          <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/SecondTime/No42.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/YJJ/offer6.java" />
+    <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/LinkToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="412">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/book/sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/GetPropertyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="200">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/book/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="250">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/book/sort/test.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No572.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="1050">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter3/ShortCircuit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="136" column="1" lean-forward="true" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/book/ThinkingInJava/Chapter3/Literals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="243">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Number.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No560.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="103">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/NowCoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/TestResultSetMetaData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
-          <folding>
-            <element signature="e#46394#46395#0" expanded="true" />
-            <element signature="e#46458#46459#0" expanded="true" />
-            <element signature="e#47036#47037#0" expanded="true" />
-            <element signature="e#47092#47093#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="25">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/CircleComparable.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/CircleComparator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/Demo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/Person.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/TestSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/ConstructTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/backup/Circle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/NowCoder/AbstractClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2175">
-          <caret line="149" column="4" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="28" />
+        <state relative-caret-position="275">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No621.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools.java" />
+    <entry file="file://$PROJECT_DIR$/src/Print.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="362" column="30" lean-forward="true" selection-start-line="362" selection-start-column="30" selection-end-line="362" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;method#compare#0;class#Comparator#0" />
-            <element signature="docComment;method#equals#0;class#Comparator#0" />
-            <element signature="docComment;method#reversed#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Old.java" />
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Old/No10.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34375">
-          <caret line="1430" column="4" selection-start-line="1430" selection-start-column="4" selection-end-line="1439" selection-end-column="5" />
+        <state relative-caret-position="500">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/CircleComparable.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="48" />
+        <state relative-caret-position="875">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/CircleComparator.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/Version.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15150">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools/IOTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="134" column="1" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isMatchBackTracking#0;class#No10#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No287.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/ArrayStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/Combination_sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/ConstructTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/CircleSortWithInner.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/TypeTransform.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/DistinctNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learning_java/sortTry/TestSort.java">
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/StaticValueClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/MinustTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/MathPowTry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/ArrayListOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/char_try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/GrammarTest/SortByCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123650">
+          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/No46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/reflect/Reflection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="262" column="40" selection-start-line="262" selection-start-column="40" selection-end-line="262" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/LinkToMySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learning_java/DataBase/SimpleJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1089,7 +1102,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

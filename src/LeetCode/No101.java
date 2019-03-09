@@ -1,6 +1,6 @@
 package LeetCode;
 
-import learning_java.ConstructTree;
+import learning_java.GrammarTest.ConstructTree;
 
 public class No101 {
     public boolean isSymmetric(TreeNode root) {

@@ -1,6 +1,6 @@
 package LeetCode;
 
-import learning_java.ConstructTree;
+import learning_java.GrammarTest.ConstructTree;
 
 import java.util.LinkedList;
 import java.util.List;

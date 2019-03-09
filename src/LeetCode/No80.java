@@ -1,7 +1,7 @@
 package LeetCode;
 
 // badcase: [1,1,1,2,2,3]
-public class No80 {
+public class   No80 {
     // 11ms
     public int removeDuplicates(int[] nums) {
         if (nums.length < 3) {

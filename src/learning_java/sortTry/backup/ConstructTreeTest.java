@@ -1,7 +1,7 @@
 package learning_java.sortTry.backup;
 
 import LeetCode.TreeNode;
-import learning_java.ConstructTree;
+import learning_java.GrammarTest.ConstructTree;
 
 public class ConstructTreeTest {
     public void preOrder(TreeNode root) {
