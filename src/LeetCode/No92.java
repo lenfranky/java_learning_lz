@@ -4,48 +4,44 @@ import java.util.LinkedList;
 
 public class No92 {
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        if (head == null) return head;
+        ListNode preNode = null;
+        ListNode currNode = head;
+        ListNode nextNode;
+        ListNode a = new ListNode(0), b = new ListNode(0), c = new ListNode(0), d = new ListNode(0);
         int count = 1;
-        int count_low = 1;
-        ListNode cur = head;
-        ListNode temp;
-        while(cur.next != null && count != n) {
-            cur = cur.next;
+        while (currNode != null) {
+            if (m == 1 && count == n) head = currNode;
+            if (count >= m && count <= n) {
+                nextNode = currNode.next;
+                if (count == m) {
+                    a = preNode;
+                    b = currNode;
+                }
+                if (count == n) {
+                    c = currNode;
+                    d = nextNode;
+                }
+                currNode.next = preNode;
+                preNode = currNode;
+                currNode = nextNode;
+            }
+            else {
+                preNode = currNode;
+                currNode = currNode.next;
+            }
             count ++;
         }
-        while(count_low != m) {
-            head = head.next;
-            count_low ++;
-        }
+        if (a != null) a.next = c;
+        if (b != null) b.next = d;
 
-        while (count_low != n) {
-            temp = head.next;
-            head.next = cur.next;
-            cur.next = head;
-            head = temp;
-            count_low ++;
-        }
-        return dummy.next;
+        return head;
     }
 
     public static void main(String[] args) {
-        ListNode node1 = new ListNode(1);
-        ListNode node2 = new ListNode(2);
-        ListNode node3 = new ListNode(3);
-        ListNode node4 = new ListNode(4);
-        ListNode node5 = new ListNode(5);
-        ListNode node6 = new ListNode(6);
-        node1.next = node2;
-        node2.next = node3;
-        node3.next = node4;
-        node4.next = node5;
-        node5.next = node6;
-        node5.next = null;
-        ListNode res = new No92().reverseBetween(node1, 2, 4);
-        while(res != null) {
-            System.out.println(res.val);
-            res = res.next;
-        }
+        ListNode head = ListOperation.constructList("5");
+        ListOperation.show(head);
+        new No92().reverseBetween(head, 1, 1);
+        ListOperation.show(head);
     }
 }

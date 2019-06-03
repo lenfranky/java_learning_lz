@@ -8,7 +8,7 @@ public abstract class AbstractClassTest {
     //    }
 
 //    抽象类中不能有抽象静态方法
-//    public abstract static void show() {
+//    public abstract static void getTreeNodeList() {
 //
 //    }
 

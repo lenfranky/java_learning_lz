@@ -33,6 +33,18 @@ public class No206 {
         return temp;
     }
 
+    public ListNode reverseListReference(ListNode head) {
+        ListNode prev = null;
+        while(head != null){
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
+
+    }
+
     public static void main(String[] args) {
         ListNode head = ConstructList.constructList(new int[] {
                 1, 2, 3, 4, 5

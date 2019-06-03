@@ -1,12 +1,13 @@
 package learning_java.YJJ;
 
-class TreeNode{
-    int val;
-    TreeNode lefttree;
-    TreeNode righttree;
-    TreeNode(int x){val = x;}
-}
+
 public class offer6 {
+    class TreeNode{
+        int val;
+        TreeNode lefttree;
+        TreeNode righttree;
+        TreeNode(int x){val = x;}
+    }
     public TreeNode reConstructBinary(int []prearray,int []inarray){
         if (prearray.length==0 || inarray.length==0) return null;
         else

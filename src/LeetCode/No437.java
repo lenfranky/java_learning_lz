@@ -40,11 +40,11 @@ public class No437 {
     public int pathSum(TreeNode root, int sum) {
         HashMap<Integer, Integer> preSum = new HashMap();
         preSum.put(0,1);
-        helper(root, 0, sum, preSum);
+        helperOld(root, 0, sum, preSum);
         return count;
     }
     int count = 0;
-    public void helper(TreeNode root, int currSum, int target, HashMap<Integer, Integer> preSum) {
+    public void helperOld(TreeNode root, int currSum, int target, HashMap<Integer, Integer> preSum) {
         if (root == null) {
             return;
         }
@@ -61,8 +61,8 @@ public class No437 {
             preSum.put(currSum, preSum.get(currSum)+1);
         }
 
-        helper(root.left, currSum, target, preSum);
-        helper(root.right, currSum, target, preSum);
+        helperOld(root.left, currSum, target, preSum);
+        helperOld(root.right, currSum, target, preSum);
         preSum.put(currSum, preSum.get(currSum) - 1);
     }
     */
