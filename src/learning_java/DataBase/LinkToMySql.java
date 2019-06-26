@@ -69,6 +69,6 @@ public class LinkToMySql {
                 se.printStackTrace();
             }
         }
-        System.out.println("Goodbye!");
+        System.out.println("FINISH!");
     }
 }

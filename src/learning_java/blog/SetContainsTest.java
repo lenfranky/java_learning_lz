@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class SetContainsTest {
     public static void main(String[] args) {
-        Set<List<Integer>> listSet = new HashSet<>();
+        HashSet<List<Integer>> listSet = new HashSet<>();
 
         List<Integer> listOne = new ArrayList<>();
         listOne.add(1);

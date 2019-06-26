@@ -1,5 +1,8 @@
 package LeetCode;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /*
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -55,32 +58,39 @@ Time complexity : O(n)O(n). We traverse the list containing nn elements only onc
 Space complexity : O(n)O(n). The extra space required depends on the number of items stored in the hash table, which stores at most nn elements.
  */
 public class No1 {
-    public int[] twoSum(int[] nums, int target) {
-        int[] result_array = new int[2];
-        int num = -2147483648;
-        boolean flagFindResult = false;
+    public int[] twoSumWithSet(int[] nums, int target) {
+        if (nums == null || nums.length == 0) return null;
+        int[] res = new int[2];
+        Set<Integer> numsSet = new HashSet<>();
 
-        for (int i=0; i < nums.length; i ++) {
-            num = nums[i];
-
-            for (int j=i+1; j < nums.length; j++) {
-                if (nums[j] == target - num) {
-                    flagFindResult = true;
-                    result_array[0] = i;
-                    result_array[1] = j;
-                    break;
-                }
+        for (int num: nums) {
+            if (numsSet.contains(target - num)) {
+                res[0] = target - num;
+                res[1] = num;
+                return res;
             }
-
-            if (flagFindResult) {
-
-                return result_array;
-            }
+            numsSet.add(num);
         }
 
-        return result_array;
+        return null;
     }
 
+    public int[] twoSum(int[] nums, int target) {
+        if (nums == null || nums.length == 0) return null;
+        int[] res = new int[2];
+        Set<Integer> numsSet = new HashSet<>();
+
+        for (int num: nums) {
+            if (numsSet.contains(target - num)) {
+                res[0] = target - num;
+                res[1] = num;
+                return res;
+            }
+            numsSet.add(num);
+        }
+
+        return null;
+    }
 
     public static void main(String[] args) {
         int [] a = {-1, -2, -3, -4, -5};

@@ -6,48 +6,42 @@ import java.util.List;
 
 public class No47 {
     public List<List<Integer>> permuteUnique(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (nums == null || nums.length == 0) return res;
         Arrays.sort(nums);
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        List<Integer> remainNums = new ArrayList<>();
-        for (int num: nums) {
-            remainNums.add(num);
-        }
-        permuteUniqueIterNew(res, new ArrayList<Integer>(), remainNums);
+        List<List<List<Integer>>> helpRes = new ArrayList<>();
+        for (int i = 0; i < nums.length; i ++) helper(helpRes, nums, i);
+        for (List<List<Integer>> lists: helpRes) for (List<Integer> list: lists) res.add(list);
         return res;
     }
 
-    public void permuteUniqueIter(List<List<Integer>> res, List<Integer> currentRes, List<Integer> remainNums) {
-        if (remainNums.isEmpty()) {
-            res.add(currentRes);
-            return;
-        }
-        for (int i = 0; i < remainNums.size(); i ++) {
-            // 可以理解为，在同一位置上出现过一次的数字，就不再在同一位置再次出现
-            if(i > 0 && remainNums.get(i) == remainNums.get(i - 1)) continue;
-            ArrayList<Integer> newRemainNums = new ArrayList<>(remainNums);
-            ArrayList<Integer> newCurrentRes = new ArrayList<>(currentRes);
-            newCurrentRes.add(newRemainNums.get(i));
-            newRemainNums.remove(i);
-            permuteUniqueIter(res, newCurrentRes, newRemainNums);
-        }
-    }
+    public void helper(List<List<List<Integer>>> helpRes, int[] nums, int index) {
+        if (index >= nums.length) return;
+        List<List<Integer>> currRes = new ArrayList<>();
 
-    public void permuteUniqueIterNew(List<List<Integer>> res, List<Integer> currentRes, List<Integer> remainNums) {
-        if (remainNums.isEmpty()) {
-            ArrayList<Integer> newCurrentRes = new ArrayList<>(currentRes);
-            res.add(new ArrayList<Integer>(newCurrentRes));
-            return;
+        if (index == 0) {
+            currRes.add(new ArrayList<>(Arrays.asList(nums[index])));
         }
-        for (int i = 0; i < remainNums.size(); i ++) {
-            // 可以理解为，在同一位置上出现过一次的数字，就不再在同一位置再次出现
-            if(i > 0 && remainNums.get(i) == remainNums.get(i - 1)) continue;
-            int currentNum = remainNums.get(i);
-            currentRes.add(currentNum);
-            remainNums.remove(i);
-            permuteUniqueIterNew(res, currentRes, remainNums);
-            currentRes.remove(currentRes.size() - 1);
-            remainNums.add(i, currentNum);
+        else {
+            if (nums[index] == nums[index - 1]) {
+                for (List<Integer> list: helpRes.get(index - 1)) {
+                    List<Integer> currList = new ArrayList<>(list);
+                    currList.add(nums[index]);
+                    currRes.add(currList);
+                }
+            }
+            else {
+                currRes.add(new ArrayList<>(Arrays.asList(nums[index])));
+                for (int i = 0; i < index; i ++) {
+                    for (List<Integer> list: helpRes.get(i)) {
+                        List<Integer> currList = new ArrayList<>(list);
+                        currList.add(nums[index]);
+                        currRes.add(currList);
+                    }
+                }
+            }
         }
+        helpRes.add(currRes);
     }
 
     public static void main(String[] args) {
